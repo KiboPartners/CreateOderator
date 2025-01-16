@@ -1,4 +1,3 @@
-
 # Create Orderator
 
 Helper scripts to make Create Order Payloads, you can comment out lines to programaticly generate
@@ -13,4 +12,6 @@ To run, modify the `createOrderLib.ts` file, then call call:
 ts-node createOrderLib.ts | pbcopy
 ```
 Then paste that JSON payload into Postman. 
+
+Credit: Andrew Coles
 
